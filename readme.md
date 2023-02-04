@@ -15,7 +15,7 @@ docker run -p 5000:5000 myflaskapp
 
 In label studio, click the following export:
 
-<img src="/assets/readme/export_label_studio" alt="Alt text" title="Optional title">
+<img src="/assets/readme/export_label_studio.png" alt="Alt text" title="Optional title">
 
 Upload the .zip on the upload page:
 
